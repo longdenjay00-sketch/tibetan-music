@@ -1,0 +1,31 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    { "query": "path:History", "color": { "a": 1, "rgb": 9189946 } },
+    { "query": "path:Culture", "color": { "a": 1, "rgb": 12877882 } },
+    { "query": "path:Theory", "color": { "a": 1, "rgb": 3108748 } },
+    { "query": "path:Instruments", "color": { "a": 1, "rgb": 4094540 } },
+    { "query": "path:Science", "color": { "a": 1, "rgb": 6048650 } },
+    { "query": "path:Cheatsheets", "color": { "a": 1, "rgb": 4886754 } },
+    { "query": "path:Mindmaps", "color": { "a": 1, "rgb": 12347918 } },
+    { "query": "path:Reference", "color": { "a": 1, "rgb": 7372944 } }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.45,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 220,
+  "scale": 0.8,
+  "close": false
+}
